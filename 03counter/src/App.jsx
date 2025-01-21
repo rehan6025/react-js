@@ -23,10 +23,7 @@ function App() {
 
   return (
     <>
-      <h1>Counter</h1>
-      <h3>Count : {count}</h3>
-      <button onClick={addValue}>Add count {count}</button>
-      <button onClick={removeValue}>Remove count {count}</button>
+      <div>test</div>
     </>
   )
 }
